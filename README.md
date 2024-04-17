@@ -32,5 +32,5 @@ The dataset consists of a large number of images of both dogs and cats. Each ima
 ## **Contributing:**
 Contributions to the project are welcome! Whether it's improving the model's performance, adding new features, or optimizing the code, feel free to submit pull requests.
 
-**Credits:**
-This project was developed by [Anirudh Varshney].
+## **Credits:**
+This project was developed by Anirudh Varshney.
